@@ -64,10 +64,10 @@ Example:
 
 
 decks/blue-collar-workers/
-├── engine_graph.json
-├── source_data.json
-├── matchup_profiles.json
-└── versions/
+-├── engine_graph.json
+-├── source_data.json
+-├── matchup_profiles.json
+-└── versions/
 
 
 ---
