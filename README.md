@@ -19,18 +19,12 @@ This project aims to:
 
 
 legacy-deck-engineering/
-
-│
-
-├── framework/ # Core definitions & schemas
-
-├── decks/ # Individual deck data
-
-├── scripts/ # Automation tools
-
-├── data/ # Cross-deck data (meta, matrix)
-
-└── .github/ # CI / validation
+-│
+-├── framework/ # Core definitions & schemas
+-├── decks/ # Individual deck data
+-├── scripts/ # Automation tools
+-├── data/ # Cross-deck data (meta, matrix)
+-└── .github/ # CI / validation
 
 
 ---
